@@ -97,10 +97,15 @@ npm run lint
 - The dashboard is intentionally split into clear sections to keep the UI easy to evaluate and extend.
 - The order history screen includes both status filtering and date-range filtering to match the assessment brief.
 
+## System Design
+
+For the written architecture notes, see the shared document:
+
+[Cymelle Ops system design](https://docs.google.com/document/d/1UJCPwaPiXOUFfo_FzJFjwHnaHQLRLCU4rBY_ULSZH0M/edit?usp=sharing)
+
 ## Suggested next steps
 
 - Add an environment variable for the API base URL.
 - Add pagination for larger order and inventory lists.
 - Add retry and toast-based error feedback.
 - Add automated frontend tests with React Testing Library.
-

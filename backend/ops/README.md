@@ -589,3 +589,9 @@ Apache 2.0 - See LICENSE file
 ## Support
 
 For issues or questions, create a GitHub issue or contact the development team.
+
+## Architecture Notes
+
+For the written architecture notes, see the shared document:
+
+[Cymelle Ops system design](https://docs.google.com/document/d/1UJCPwaPiXOUFfo_FzJFjwHnaHQLRLCU4rBY_ULSZH0M/edit?usp=sharing)
